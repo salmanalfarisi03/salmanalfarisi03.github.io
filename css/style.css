@@ -14,3 +14,6 @@
 .font-button{
     font-family: 'Oswald', sans-serif
 }
+.navbar-toggler{
+    background-color: white !important;
+}
