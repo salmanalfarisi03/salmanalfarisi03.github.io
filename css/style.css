@@ -1,0 +1,16 @@
+.nav-link{
+    color: aliceblue;
+}
+.navbar-nav .nav-item .active{
+    color: rgb(230, 3, 3);
+}
+.navbar .navbar-nav > li > a:hover, .navbar .navbar-nav > li > a:focus {
+    color: #ff002b;
+}.text{
+    font-family: 'Oswald', sans-serif;
+    color: rgb(193, 223, 248);
+    text-align: center;
+}
+.font-button{
+    font-family: 'Oswald', sans-serif
+}
