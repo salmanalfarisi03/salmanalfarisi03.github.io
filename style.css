@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #4e64a6;
+}
+
+#projects {
+  background-color: #4e64a6;
+}
+
+section {
+  padding-top: 5rem;
+}
+.circle-avatar {
+  border-radius: 50%;
+  border: 5px solid #131a40;
+}
